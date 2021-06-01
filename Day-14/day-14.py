@@ -10,6 +10,7 @@ class Difference:
 _ = input()
 a = [int(e) for e in input().split(' ')]
 
+
 d = Difference(a)
 d.computeDifference()
 
