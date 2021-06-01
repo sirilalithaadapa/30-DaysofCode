@@ -14,3 +14,5 @@ for i in range(T):
         print(ans)
     except Exception as e:
         print(e)
+        
+        
