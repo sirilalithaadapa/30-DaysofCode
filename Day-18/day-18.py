@@ -14,6 +14,7 @@ class Solution:
     def dequeueCharacter(self):
         return self.queue.pop(0)
 
+    
 # read the string s
 s=input()
 #Create the Solution class object
