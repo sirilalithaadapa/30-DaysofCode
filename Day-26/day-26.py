@@ -12,3 +12,4 @@ elif returnDate[2] == dueDate[2]:
             fine = 15 * (returnDate[0] - dueDate[0])
 
 print(fine)
+
