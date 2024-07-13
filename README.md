@@ -7,7 +7,7 @@
 
 ## Personal HackerRank Profile
 
-[View Profile][(https://www.hackerrank.com/sirilalithaadapa](https://www.hackerrank.com/profile/sirilalitha))
+[View Profile](https://www.hackerrank.com/profile/sirilalitha)
 
 # Hacker Rank 
 EveryDay i will be uploading my Code in this repo 
